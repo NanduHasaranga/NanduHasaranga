@@ -9,7 +9,7 @@
 
 
 ### 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=cpp,nodejs,react,arduino,docker,c,firebase,git,github,java,js,mysql,py,react,ros,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,nodejs,react,bootstrap,css,html,mongodb,arduino,c,firebase,git,github,java,js,mysql,py,react,ros,vscode&perline=8)](https://skillicons.dev)
 
 <br />
 
