@@ -19,7 +19,7 @@
 
 <h3 align='left'> Connect with me: </h3>
 <p align='left'>
-<a href="https://https://www.linkedin.com/in/nandu-hasaranga-58104b324/" target='black'><img src=src\linkedin.gif height='50' align='center'/></a>
+<a href="https://www.linkedin.com/in/nandu-hasaranga-58104b324/" target='black'><img src=src\linkedin.gif height='50' align='center'/></a>
 </p>
 <!--
 **NanduHasaranga/NanduHasaranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
